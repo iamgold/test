@@ -1,0 +1,12 @@
+{
+    "name": "iamgold/test",
+    "description": "Create a package for testing composer",
+    "keywords": ["iamgold", "test", "composer"],
+    "type": "library",
+    "support": {
+        "source": "https://gihub.com/iamgold/test"
+    },
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
